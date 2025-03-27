@@ -2,7 +2,7 @@
 function Footer() {
   return (
     <div>
-        <p>Footer.jsx</p>
+        <p>&copy; Shreya Kakachery 2025. All Rights Reserved</p>
     </div>
   )
 }
